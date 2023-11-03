@@ -1,0 +1,50 @@
+D:\Projects\CSharp\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+D:\Projects\CSharp\PharmacyApp\bin\Debug\PharmacyApp.exe
+D:\Projects\CSharp\PharmacyApp\bin\Debug\PharmacyApp.pdb
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.csproj.AssemblyReference.cache
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.exe
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.pdb
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.ProductManagerForm.resources
+D:\Projects\CSharp\PharmacyApp\obj\Debug\PharmacyApp.ProviderManagerForm.resources
+C:\Users\Administrator\Desktop\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+C:\Users\Administrator\Desktop\PharmacyApp\bin\Debug\PharmacyApp.exe
+C:\Users\Administrator\Desktop\PharmacyApp\bin\Debug\PharmacyApp.pdb
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.ProductManagerForm.resources
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.ProviderManagerForm.resources
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.exe
+C:\Users\Administrator\Desktop\PharmacyApp\obj\Debug\PharmacyApp.pdb
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\bin\Debug\PharmacyApp.exe
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\bin\Debug\PharmacyApp.pdb
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.csproj.AssemblyReference.cache
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.ProductManagerForm.resources
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.ProviderManagerForm.resources
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.exe
+C:\Users\Лера\Desktop\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.pdb
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\bin\Debug\PharmacyApp.exe
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\bin\Debug\PharmacyApp.pdb
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.csproj.AssemblyReference.cache
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.ProductManagerForm.resources
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.ProviderManagerForm.resources
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.exe
+E:\Учеба\3 сем\КПО\Кп\Pharmacy\PharmacyApp\obj\Debug\PharmacyApp.pdb
